@@ -1,0 +1,1 @@
+If you're using the cf7 ultimate addons plugin and want to make sure your range slider adds the comma for the decimals. You need to append the function in this file, open the plugin editor (yes, directly) look for addons and go to the range slider, find the js file, at the end of the file copy and paste the code from this repo. That's all.
